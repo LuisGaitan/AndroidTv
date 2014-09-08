@@ -1,0 +1,53 @@
+﻿
+# Please enter the commit message for your changes. Lines starting
+# with '#' will be ignored, and an empty message aborts the commit.
+# On branch master
+# Your branch is up-to-date with 'origin/master'.
+#
+# Changes to be committed:
+#	modified:   Library/AssetImportState
+#	modified:   Library/EditorUserBuildSettings.asset
+#	modified:   Library/assetDatabase3
+#	modified:   Library/metadata/07/07c8cfc7f3c355e44bf90871d9eec625
+#	modified:   Library/metadata/08/085a260b2d99bd54d8a8f7587c6cdd5f
+#	modified:   Library/metadata/1b/1b4e6cc33563f5a43bcb38d0b0a6c80a
+#	modified:   Library/metadata/22/2264faf4f795b6843932d09a642d442b
+#	modified:   Library/metadata/23/232cafca09df5b7429ae8cec73c148bf
+#	modified:   Library/metadata/25/25656bb4bdba9d74fbdcec086c36da54
+#	modified:   Library/metadata/2d/2d66fdc9e9f0d0c4cb7642f57dd18250
+#	modified:   Library/metadata/2f/2f457ab648d52c3438926569eff3903b
+#	modified:   Library/metadata/33/337833f88c399624fb07b195c10dc6ed
+#	modified:   Library/metadata/41/41db3ffb30c7c6e42a29062caf72bd93
+#	modified:   Library/metadata/4f/4f15d8b16d6fda145a283b65e7594656
+#	modified:   Library/metadata/5a/5a88471d48adeb5439a6f1fb77fffb76
+#	modified:   Library/metadata/5d/5df3a5da4b9409d4e8dcfcb5a7f2efb6
+#	modified:   Library/metadata/61/610d6985ab90c9d43895bfcf1edc1e1f
+#	modified:   Library/metadata/73/736768efc52c9ca4981bd70c503d7d01
+#	modified:   Library/metadata/7b/7b732c99b3c5a79469b9ae07d0032abe
+#	modified:   Library/metadata/7c/7cb8be361ca1b7b4197f117ab121a7f4
+#	modified:   Library/metadata/7e/7ec97cef417aea24187127b871f79cf9
+#	modified:   Library/metadata/95/9526bf9c85a76e140bba2b7054b6d9b4
+#	modified:   Library/metadata/9c/9c15b007bc3e6a34f843295e48f9b10a
+#	modified:   Library/metadata/9c/9ce6997595952254981513ca1a2ab39c
+#	modified:   Library/metadata/a6/a6987ce4339ab6a4fb015504c456c683
+#	modified:   Library/metadata/a8/a88bc1d48e8ad1141a7f5c7252a63f30
+#	modified:   Library/metadata/ac/acd6528d87a986246ada3e39a8e47870
+#	modified:   Library/metadata/b2/b269272c0c2ba5441b38bff595be1f9a
+#	modified:   Library/metadata/b2/b273d9055534d614ba3ac223c936edf7
+#	modified:   Library/metadata/b4/b446043d575498d4fb9f8b8fbaea7134
+#	modified:   Library/metadata/b5/b5ed0d4f1b163d644bb5daa3cb634dce
+#	modified:   Library/metadata/b7/b7cd9fbb5ae5e7a4bad1091bd6724b9f
+#	modified:   Library/metadata/ba/ba33c6c0661825b4db3305bfd6599fc7
+#	modified:   Library/metadata/de/de0602974f14d1e45a7cec9dca6b3c4f
+#	modified:   Library/metadata/e2/e2ce5778752037c4fa3c5c4cacf95e6b
+#	modified:   Library/metadata/e4/e4fd1cdecdf7fe04994c460b6b5cf073
+#	modified:   Library/metadata/eb/eb149b2caa0efbc46806952a3ab0862d
+#	modified:   Library/metadata/ee/ee75a47af7dfc8c4e85e33e7aaa8ba60
+#	modified:   Library/metadata/f2/f21555550245a7d40a2fdc7cabed71be
+#	modified:   ProjectSettings/ProjectSettings.asset
+#
+# Untracked files:
+#	Temp/
+#	w5ikgqw3.pgw.txt
+#
+
